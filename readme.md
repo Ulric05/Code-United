@@ -17,10 +17,6 @@ This repository is going to be a database of all small useful code snippets in w
 
 - Make a PR (pull request), and i'll merge it by providing you a lable of `hacktoberfest-accepted` :)
 
-## Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=typhonshambo/hacktoberfest-2022)
-
-
 ### 💕 SUPPORT ME
 - star this repo
 - visit my profile and follow if you like :)
