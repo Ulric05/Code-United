@@ -1,5 +1,5 @@
-## ✨ HACKTOBERFEST - 2022✨
-Welcome to hacktoberfest 2022 Public Repository. 👨🏻‍💻
+## ✨ HACKTOBERFEST - 2023✨
+Welcome to hacktoberfest 2023 Public Repository. 👨🏻‍💻
 
 A month-long celebration from October 1st - 31st to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
