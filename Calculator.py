@@ -1,3 +1,5 @@
+import os
+
 def add(a,b):
     print("Sum is : ",(a+b))
 
@@ -14,13 +16,14 @@ def div(a,b):
     print("Quotient is : ",(a/b))
 
 while True:
-    print('''Enter 1 to add
+    print('''\n
+             Enter 1 to add
              Enter 2 to subtract
              Enter 3 to multiply
              Enter 4 to divide
              Enter N or n to exit 
              Enter any other key to continue''')
-    ch=input("Enter choice: ")
+    ch=input(" \n Enter choice: ")
     if ch == "1":
         a=int(input("Enter 1st number: "))
         b=int(input("Enter 1st number: "))
@@ -43,7 +46,9 @@ while True:
 
     elif ch in "Nn":
         break
-    
 
-    
-
+    ch=input(" \n \n Continue [y/n]: ")
+    if ch in "Nn":
+        break
+    elif ch in "Yy":
+        os.system('cls')
